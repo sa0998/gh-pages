@@ -5,7 +5,7 @@ import './App.css';
 ReactDOM.render(
 <React.Fragment>
 <div className="CardMain">
-  <h1>ssxxx</h1>
+  <h1>sohaib ali</h1>
 <InputField/>
 </div>
 </React.Fragment>,
