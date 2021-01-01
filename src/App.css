@@ -1,0 +1,16 @@
+.fulldiv{
+  text-align: center;
+}
+.maindivimg{
+  display: flex;
+  justify-content: center;
+}
+/* .CardMain{
+  display: flex;
+} */
+
+.card_img {
+  max-width: 100%;
+}
+
+
