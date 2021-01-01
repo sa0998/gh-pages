@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/sa0998/myapp.git/static/js/main.74da8015.chunk.js",
-    "main.js.map": "/sa0998/myapp.git/static/js/main.74da8015.chunk.js.map",
+    "main.css": "/sa0998/myapp.git/static/css/main.8d52d3f6.chunk.css",
+    "main.js": "/sa0998/myapp.git/static/js/main.522131b3.chunk.js",
+    "main.js.map": "/sa0998/myapp.git/static/js/main.522131b3.chunk.js.map",
     "runtime-main.js": "/sa0998/myapp.git/static/js/runtime-main.142e3b89.js",
     "runtime-main.js.map": "/sa0998/myapp.git/static/js/runtime-main.142e3b89.js.map",
-    "static/js/2.b9edce6b.chunk.js": "/sa0998/myapp.git/static/js/2.b9edce6b.chunk.js",
-    "static/js/2.b9edce6b.chunk.js.map": "/sa0998/myapp.git/static/js/2.b9edce6b.chunk.js.map",
+    "static/js/2.213e986e.chunk.js": "/sa0998/myapp.git/static/js/2.213e986e.chunk.js",
+    "static/js/2.213e986e.chunk.js.map": "/sa0998/myapp.git/static/js/2.213e986e.chunk.js.map",
     "index.html": "/sa0998/myapp.git/index.html",
-    "static/js/2.b9edce6b.chunk.js.LICENSE.txt": "/sa0998/myapp.git/static/js/2.b9edce6b.chunk.js.LICENSE.txt"
+    "static/css/main.8d52d3f6.chunk.css.map": "/sa0998/myapp.git/static/css/main.8d52d3f6.chunk.css.map",
+    "static/js/2.213e986e.chunk.js.LICENSE.txt": "/sa0998/myapp.git/static/js/2.213e986e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.142e3b89.js",
-    "static/js/2.b9edce6b.chunk.js",
-    "static/js/main.74da8015.chunk.js"
+    "static/js/2.213e986e.chunk.js",
+    "static/css/main.8d52d3f6.chunk.css",
+    "static/js/main.522131b3.chunk.js"
   ]
 }
