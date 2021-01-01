@@ -3,11 +3,11 @@ import InputField from './Getname-onclick';
 import './App.css';
 
 ReactDOM.render(
-<React.Fragment>
+<div>
 <div className="CardMain">
   <h1>sohaib ali</h1>
 <InputField/>
 </div>
-</React.Fragment>,
+</div>,
   document.getElementById('root')
 );
