@@ -5,7 +5,7 @@ import './App.css';
 ReactDOM.render(
 <div>
 <div className="CardMain">
-  <h1>sohaib aliii</h1>
+  <h1>Sohaib Ali</h1>
 <InputField/>
 </div>
 </div>,
